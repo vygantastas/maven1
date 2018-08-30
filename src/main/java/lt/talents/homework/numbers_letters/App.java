@@ -2,9 +2,7 @@ package lt.talents.homework.numbers_letters;
 
 import java.util.Locale;
 
-import com.ibm.icu.lang.UCharacter;
 import com.ibm.icu.text.RuleBasedNumberFormat;
-import com.ibm.icu.util.ULocale;
 
 public class App {
 	public static void main(String[] args) {
