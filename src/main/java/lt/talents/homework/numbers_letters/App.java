@@ -16,6 +16,8 @@ public class App {
 				System.out.println(ltFormatter.format(Integer.parseInt(args[i]))); // , "%spellout-ordinal"));
 
 			}
+		} else {
+			System.out.println("Input country code and numbers");
 		}
 	}
 }
